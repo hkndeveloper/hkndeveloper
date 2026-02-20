@@ -1,4 +1,4 @@
-# <p align="center">Greetings, I'm Dr. Ryan (Hakan) ⚡</p>
+# <p align="center">Greetings, I'm Hakan ⚡</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Computer%20Engineer%20&%20Game%20Dev&fontSize=40&animation=fadeIn&fontAlignY=38" />
