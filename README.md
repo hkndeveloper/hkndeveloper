@@ -81,4 +81,4 @@ I'm a **4th-year Computer Engineering student** at **Necmettin Erbakan Universit
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkndeveloper&theme=github-compact" width="100%" />
 </p>
 
-![Snake animation](https://github.com/hkndeveloper/hkndeveloper/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/hkndeveloper/hkndeveloper/output/github-contribution-grid-snake.svg)
