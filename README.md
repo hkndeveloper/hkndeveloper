@@ -1,4 +1,4 @@
-# <p align="center">Greetings, I'm Hakan ⚡</p>
+# <p align="center">Greetings, I'm Dr. Ryan (Hakan) ⚡</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Computer%20Engineer%20&%20Game%20Dev&fontSize=40&animation=fadeIn&fontAlignY=38" />
@@ -73,12 +73,12 @@ I'm a **4th-year Computer Engineering student** at **Necmettin Erbakan Universit
 
 ## 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/SENIN_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/hkndeveloper-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dr. Ryan" height="30" width="40" /></a>
-<a href="https://twitter.com/SENIN_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/hkndeveloper-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dr. Ryan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/SENIN_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dr. Ryan" height="30" width="40" /></a>
+<a href="https://twitter.com/SENIN_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dr. Ryan" height="30" width="40" /></a>
 </p>
 
 <p align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SENIN_KULLANICI_ADIN&theme=github-compact" width="100%" />
 </p>
 
-![Snake animation](https://github.com/SENIN_KULLANICI_ADIN/SENIN_KULLANICI_ADIN/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hkndeveloper/hkndeveloper/blob/output/github-contribution-grid-snake.svg)
