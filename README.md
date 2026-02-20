@@ -78,7 +78,7 @@ I'm a **4th-year Computer Engineering student** at **Necmettin Erbakan Universit
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SENIN_KULLANICI_ADIN&theme=github-compact" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkndeveloper&theme=github-compact" width="100%" />
 </p>
 
 ![Snake animation](https://github.com/hkndeveloper/hkndeveloper/blob/output/github-contribution-grid-snake.svg)
