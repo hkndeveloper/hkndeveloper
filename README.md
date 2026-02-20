@@ -41,7 +41,6 @@ I'm a **4th-year Computer Engineering student** at **Necmettin Erbakan Universit
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🏢 City App** | Mobile app for Kahramanmaraş Municipality. | Flutter, Firebase |
 | **🏰 Tower Defense** | 2D Tower Defense game with dynamic waves. | Unity, C#, Firebase |
 | **🔬 Lab Sim** | 3D Chemistry Laboratory simulation. | Unity, Firebase |
 | **🚗 Plate Recognition** | AI-based license plate recognition system. | Python, OpenCV |
