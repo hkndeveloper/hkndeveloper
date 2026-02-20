@@ -57,7 +57,7 @@ I'm a **4th-year Computer Engineering student** at **Necmettin Erbakan Universit
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SENIN_KULLANICI_ADIN&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkndeveloper&theme=radical" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ I'm a **4th-year Computer Engineering student** at **Necmettin Erbakan Universit
 
 ## 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/SENIN_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dr. Ryan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hakan-kekec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dr. Ryan" height="30" width="40" /></a>
 <a href="https://twitter.com/SENIN_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dr. Ryan" height="30" width="40" /></a>
 </p>
 
