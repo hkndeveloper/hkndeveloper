@@ -59,16 +59,6 @@ I'm a **4th-year Computer Engineering student** at **Necmettin Erbakan Universit
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkndeveloper&theme=radical" />
 </p>
 
----
-
-## 🏎 Interests & Lifestyle
-
-- **Formula 1:** Tifosi at heart but admiring McLaren's pace. 🏎️
-- **Gaming:** Sova main in Valorant 🏹 and occasional LoL player.
-- **Fitness:** Consistency is key, both in code and at the gym. 🏋️‍♂️
-- **Middle-earth:** "All we have to decide is what to do with the time that is given us." 🧙‍♂️
-
----
 
 ## 📫 Connect with Me
 <p align="left">
