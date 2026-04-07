@@ -9,7 +9,7 @@ I'm a **4th-year Computer Engineering student** at **Necmettin Erbakan Universit
 
 - 🛠 **Current Focus:** Developing scalable web solutions and immersive game simulations.
 - 🏢 **Internship:** Web Developer at City Technologies Center (Feb 2026 - May 2026).
-- 🎮 **Passions:** Game Development, Formula 1 Enthusiast (Ferrari & McLaren), and Middle-earth Lore.
+- 🎮 **Passions:** Game Development, Formula 1 Enthusiast, and Middle-earth Lore.
 - 📍 **Based In:** Konya, Turkey.
 
 ---
